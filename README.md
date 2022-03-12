@@ -1,2 +1,2 @@
-# Education.lab
+# education.lab
 Education Ideas Laboratory
